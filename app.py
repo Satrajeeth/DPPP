@@ -1,6 +1,6 @@
 import os
 import streamlit as st
-import pdfplumber
+import PyPDF2
 import docx
 from fpdf import FPDF
 from pathlib import Path
